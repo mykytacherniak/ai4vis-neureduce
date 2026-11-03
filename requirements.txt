@@ -1,0 +1,6 @@
+torch
+pandas
+z3-solver
+jupyter
+matplotlib
+scikit-learn
