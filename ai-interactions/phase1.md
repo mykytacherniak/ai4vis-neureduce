@@ -1,0 +1,60 @@
+1. Precise error types instead of accuracy
+
+MBA has two properties you can check exactly. You can test whether an output is semantically equivalent to the input, and whether it is simpler than it. So I would sort the model’s outputs on the test set into at least these categories:
+
+Syntactically invalid: the output doesn’t parse, e.g., unbalanced parentheses or a truncated token. This is the clearest form of seq2seq “hallucination.”
+Exact match with the ground truth.
+Equivalent, different form: correct, just not exactly the target expression.
+Equivalent but not simplified: correct, but barely shorter than the input.
+“Almost right”: one coefficient, sign or constant is off, or one term is missing or extra.
+Completely wrong.
+
+Checking equivalence is cheap for linear MBA. It’s enough to evaluate on all {0,1}ⁿ inputs (this is the fundamental theorem of MBA), and it’s worth also checking on random 64-bit values or with z3. I think the “almost right” category is the most interesting, because the structure of those errors reveals a lot. For it I’d do a term-level diff: split both the output and the ground truth into sets of (coefficient, bitwise term) pairs.
+
+2. Features for every input
+
+number of variables
+input length in characters and in tokens
+ground-truth length and the ratio between the two (compression ratio)
+count of each operator (+ - * & | ^ ~) and their proportions
+nesting depth
+number of terms
+size and digit count of the coefficients
+the truth table / signature vector
+
+The last one matters most. For linear MBA it uniquely determines the simplified form. That lets you place each expression in two “spaces”: the syntactic space (the surface the model sees) and the semantic space (what it should learn). If the error patterns differ between the two, that is a strong finding by itself.
+
+3. Concrete hypotheses worth testing
+
+Length or complexity? Accuracy probably drops with length. The deeper question is whether input length causes it (attention, max sequence length, truncation) or the complexity of the target. Stratifying separates the two: vary input length while holding target length fixed, and vice versa.
+Number handling: a character- or token-level model often doesn’t “compute” a coefficient. Instead it copies or makes up frequent numbers. Check whether errors concentrate in the coefficients, and whether the error rate rises with the number of digits.
+Memorization and pull toward frequent targets: the distribution of target expressions in the training set is probably long-tailed. I’d check whether wrong outputs are disproportionately targets that appear often in the training data. That would be a prior bias, a “hallucination toward the frequent answer.”
+Train/test overlap: check how many test targets appear verbatim in the training set, and whether the model does better on those. This is common in generated datasets and could explain a lot.
+Role of variables: does the model degrade at 3–4 variables, and is it worse on some variable names (e.g., t, z) than on x, y?
+Confidence: does the log-probability or beam score predict correctness? How many equivalent candidates are in the top-k beams? If the 2nd beam is often correct, the model “knows” the answer but ranks it wrong.
+
+4. Synthetic, metamorphic tests
+
+This is what shows a pattern is systematic rather than cherry-picked. Take an expression, apply a semantics-preserving transformation, and see whether the output changes:
+
+swapping operands (x & y → y & x), shuffling term order
+renaming variables (x↔y)
+changing constants, using larger coefficients
+adding a sub-expression that equals zero, e.g. (x ^ y) - (x | y) + (x & y)
+
+A model that really “understood” the task is invariant to these. If it isn’t, it’s fitting surface patterns. Longer, more-variable, or nonlinear expressions serve as out-of-distribution tests on top of this.
+
+Visualization ideas
+Heatmap: number of variables × input length, colored by error type (not just accuracy). It shows far more than a table.
+2D projection (UMAP) of the feature vectors, with linked views: clicking a cluster shows its operator composition, coefficient distribution and a few examples. This is exactly the drill-down the assignment asks for: what distinguishes the cluster, and does it have sub-clusters?
+Term-level confusion matrix: which ground-truth bitwise term the model replaces with which, or drops. This shows which terms are “hard.”
+Metamorphic stability plot: how much the output changes under each transformation.
+Confidence vs. correctness: a calibration curve broken down by error type.
+
+Suggested order
+Run the checkpoint on the test set (a few tens of thousands of examples is enough). Save the outputs and the beam scores.
+Write the equivalence check and the error categorization.
+Compute the features and look at the training-set distributions. That’s where your hypotheses come from.
+Pick 2–3 hypotheses and go deep on them with synthetic tests. You don’t need to do everything: fewer patterns, understood thoroughly, are worth more.
+
+I think the strongest story will probably come from hypotheses 2 and 3. If the model systematically gets the coefficients wrong, or drifts toward frequent targets, that explains well what it actually learned: surface templates, not arithmetic.
