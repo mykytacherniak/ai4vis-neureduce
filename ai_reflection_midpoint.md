@@ -1,3 +1,6 @@
+Caroline König, k01606380
+Zsolt Szabolcsi, k12550757
+
 Introduction
 
 For this assignment, our task was to use an AI agent while completing one of our course assignments and to reflect on the experience. Overall, using AI changed the nature of the work more than we expected. It did not simply speed up what we would have done anyway; it shifted where our time and effort went, from producing the solution to making sense of it.
