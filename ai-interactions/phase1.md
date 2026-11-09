@@ -1,4 +1,4 @@
-]633;E;cat /tmp/record.md;cecf62e9-be68-41ad-b9fd-889b610424b2]633;C# AI interaction record - Phase I (AI-aided pair)
+AI interaction record - Phase I (AI-aided pair)
 
 AI model used: Claude (chat with code sandbox). Period: 2-7 November 2026.
 Model analysed: NeuReduce Transformer (best-transformer.pt).
