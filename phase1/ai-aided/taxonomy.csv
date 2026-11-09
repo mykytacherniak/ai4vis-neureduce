@@ -1,0 +1,971 @@
+row,category,wrong_share
+33619,missing term,0.5
+53077,wrong coefficient,0.5
+17082,extra term,0.25
+5737,wrong bitwise function,0.25
+35627,swapped variables,0.5
+21799,wrong coefficient,0.75
+32556,wrong coefficient,0.5
+11867,wrong coefficient,0.5
+28482,wrong coefficient,0.25
+14400,wrong coefficient,0.25
+51040,off by a constant,1.0
+52113,wrong bitwise function,0.5
+39253,wrong bitwise function,0.25
+19224,wrong coefficient,0.25
+46118,wrong coefficient,0.25
+49034,wrong bitwise function,0.25
+27018,wrong bitwise function,0.25
+53494,missing term,0.5
+7584,missing term,0.25
+13215,missing term,0.5
+37276,wrong bitwise function,0.25
+43325,wrong coefficient,0.25
+23436,wrong bitwise function,0.25
+36023,swapped variables,0.5
+22174,wrong bitwise function,0.25
+36563,wrong bitwise function,0.25
+51438,extra term,0.75
+29052,wrong bitwise function,0.25
+21171,wrong coefficient,1.0
+19284,wrong bitwise function,0.25
+20276,wrong coefficient,0.25
+13167,wrong coefficient,0.75
+6325,extra term,0.5
+53816,extra term,0.5
+42091,wrong bitwise function,0.25
+52992,wrong coefficient,0.5
+26540,swapped variables,0.5
+20332,wrong bitwise function,0.25
+45452,wrong coefficient,0.25
+37922,wrong coefficient,0.5
+47820,off by a constant,1.0
+15786,wrong coefficient,0.25
+27072,wrong bitwise function,0.25
+35216,wrong coefficient,0.25
+37995,wrong coefficient,0.25
+4880,wrong bitwise function,0.25
+210,wrong coefficient,0.875
+17652,missing term,0.5
+14867,several changes,0.875
+27691,wrong coefficient,0.25
+21262,wrong bitwise function,0.25
+23873,wrong bitwise function,0.25
+35819,several changes,0.75
+45192,wrong coefficient,0.5
+44264,off by a constant,1.0
+1949,wrong coefficient,0.5
+36308,wrong bitwise function,0.25
+37823,missing term,0.25
+14975,several changes,0.5
+20837,wrong coefficient,0.5
+7443,swapped variables,0.5
+4708,wrong coefficient,0.5
+32522,wrong bitwise function,0.25
+40285,wrong bitwise function,0.25
+31054,several changes,0.5
+6487,wrong bitwise function,0.75
+12300,wrong coefficient,0.75
+6631,extra term,0.25
+42769,extra term,0.25
+18398,extra term,0.5
+40405,wrong coefficient,0.5
+43938,wrong coefficient,0.75
+48267,wrong coefficient,0.5
+18745,swapped variables,0.5
+45964,wrong bitwise function,0.25
+17071,missing term,0.5
+42120,wrong bitwise function,0.25
+50472,wrong coefficient,0.25
+14764,wrong coefficient,0.75
+50659,wrong bitwise function,0.25
+5255,wrong coefficient,0.25
+5058,missing term,0.25
+15569,wrong bitwise function,0.25
+40841,missing term,0.75
+48325,off by a constant,1.0
+43556,wrong bitwise function,0.25
+28987,wrong coefficient,0.25
+33665,wrong coefficient,0.5
+10399,wrong coefficient,0.75
+25592,wrong bitwise function,0.25
+54353,wrong bitwise function,0.25
+24289,missing term,0.5
+18183,wrong coefficient,0.75
+7808,extra term,0.25
+35709,sign flip,0.25
+1357,extra term,0.25
+48168,wrong bitwise function,0.25
+11205,wrong coefficient,0.25
+27138,several changes,0.5
+15614,off by a constant,1.0
+44536,wrong coefficient,0.25
+29601,wrong bitwise function,0.25
+25305,wrong coefficient,0.5
+24599,missing term,0.25
+22136,extra term,0.5
+46535,wrong coefficient,0.5
+8582,wrong coefficient,0.5
+45039,wrong coefficient,0.25
+21570,wrong bitwise function,0.25
+23617,off by a constant,1.0
+38528,wrong coefficient,0.5
+40336,wrong bitwise function,0.25
+26628,extra term,0.25
+2946,wrong coefficient,0.5
+40546,wrong coefficient,0.25
+47691,off by a constant,1.0
+9501,wrong coefficient,0.25
+9753,several changes,0.5
+41958,off by a constant,1.0
+10015,wrong coefficient,0.25
+22841,wrong coefficient,0.25
+49432,swapped variables,0.5
+53233,off by a constant,1.0
+38680,extra term,0.25
+31421,wrong coefficient,0.25
+49199,several changes,0.75
+21764,missing term,0.25
+38048,extra term,0.25
+44571,wrong coefficient,0.75
+29718,missing term,0.5
+19416,missing term,0.5
+25089,wrong coefficient,0.25
+44688,wrong coefficient,0.75
+46710,sign flip,0.5
+21014,wrong coefficient,0.5
+11913,wrong coefficient,0.5
+29217,wrong coefficient,0.5
+7782,wrong bitwise function,0.25
+2494,wrong bitwise function,0.25
+44657,extra term,0.5
+29386,wrong coefficient,0.25
+46827,off by a constant,1.0
+44675,wrong coefficient,0.75
+46948,wrong coefficient,0.25
+44119,missing term,0.5
+22731,extra term,0.5
+37131,several changes,0.25
+38428,several changes,1.0
+42550,wrong bitwise function,0.25
+51314,several changes,0.5
+36085,wrong bitwise function,0.5
+84,swapped variables,0.5
+31767,wrong bitwise function,0.25
+35442,wrong coefficient,0.25
+50655,wrong coefficient,0.75
+25551,off by a constant,1.0
+18063,wrong bitwise function,0.25
+26,wrong coefficient,0.25
+14769,wrong bitwise function,0.25
+46278,wrong bitwise function,0.25
+15545,wrong bitwise function,0.5
+8387,swapped variables,0.5
+23777,several changes,0.5
+31751,wrong bitwise function,0.25
+18141,wrong coefficient,0.5
+145,wrong coefficient,0.25
+37021,wrong coefficient,0.25
+37071,several changes,1.0
+39781,extra term,0.5
+1731,wrong bitwise function,0.5
+23983,swapped variables,0.5
+23641,wrong bitwise function,0.5
+1715,missing term,0.5
+41521,wrong bitwise function,0.25
+28739,wrong coefficient,0.25
+13546,sign flip,0.5
+13434,off by a constant,1.0
+26191,wrong bitwise function,0.25
+33415,missing term,0.25
+46690,several changes,0.25
+41027,wrong bitwise function,0.25
+30294,wrong bitwise function,0.25
+12050,missing term,0.5
+45335,wrong coefficient,0.25
+14776,swapped variables,0.5
+40743,swapped variables,0.5
+1287,extra term,0.5
+50628,wrong bitwise function,0.25
+45227,wrong coefficient,0.875
+16698,wrong bitwise function,0.5
+48304,several changes,0.25
+25920,wrong coefficient,0.75
+14227,swapped variables,0.5
+27490,wrong bitwise function,0.25
+18669,wrong coefficient,0.75
+2159,wrong bitwise function,0.75
+40698,wrong coefficient,0.5
+13973,several changes,0.5
+44415,wrong coefficient,0.25
+34263,wrong coefficient,0.25
+25738,off by a constant,1.0
+48021,several changes,0.5
+3901,wrong coefficient,0.25
+25071,wrong bitwise function,0.25
+33359,wrong bitwise function,0.25
+17184,wrong coefficient,0.75
+3031,wrong bitwise function,0.25
+4822,wrong coefficient,0.5
+34619,wrong coefficient,0.5
+17179,wrong bitwise function,0.25
+5474,missing term,0.5
+34933,wrong coefficient,0.25
+1465,swapped variables,0.5
+4275,wrong bitwise function,0.5
+27539,wrong bitwise function,0.5
+17939,wrong bitwise function,0.25
+40658,wrong bitwise function,0.5
+8261,wrong bitwise function,0.25
+37117,missing term,0.5
+16621,swapped variables,0.5
+35949,wrong coefficient,0.75
+14032,extra term,0.25
+47578,swapped variables,0.5
+36018,wrong coefficient,0.25
+37395,wrong coefficient,0.75
+28032,wrong bitwise function,0.25
+33713,extra term,0.25
+40312,wrong bitwise function,0.25
+30541,wrong coefficient,0.25
+3759,wrong bitwise function,0.25
+12513,wrong bitwise function,0.25
+18949,extra term,0.5
+40912,wrong coefficient,0.5
+18647,wrong coefficient,1.0
+21774,wrong coefficient,0.25
+2101,swapped variables,0.5
+44356,extra term,0.5
+24036,wrong coefficient,0.5
+26093,off by a constant,1.0
+31851,wrong bitwise function,0.75
+40712,off by a constant,1.0
+2430,wrong bitwise function,0.5
+10539,wrong coefficient,0.25
+3470,off by a constant,1.0
+5201,wrong bitwise function,0.25
+33381,wrong bitwise function,0.25
+46263,wrong bitwise function,1.0
+24041,extra term,0.5
+47282,wrong coefficient,0.25
+20616,swapped variables,0.5
+22457,missing term,0.5
+41009,wrong bitwise function,0.5
+17143,wrong coefficient,0.5
+43274,extra term,0.5
+22414,wrong coefficient,0.25
+36638,wrong coefficient,0.5
+33990,several changes,0.875
+12353,wrong bitwise function,0.25
+18581,swapped variables,0.5
+40748,wrong bitwise function,0.25
+41788,wrong coefficient,0.25
+21505,swapped variables,0.5
+54249,wrong bitwise function,0.25
+4424,wrong bitwise function,0.5
+6888,wrong bitwise function,0.25
+3231,swapped variables,0.5
+49837,wrong coefficient,0.5
+50366,several changes,0.75
+30978,wrong coefficient,0.5
+3318,missing term,0.5
+14549,off by a constant,1.0
+41353,wrong bitwise function,0.75
+21246,missing term,0.5
+49758,swapped variables,0.5
+23836,missing term,0.5
+16292,extra term,0.75
+50038,wrong coefficient,0.75
+36074,wrong coefficient,0.5
+46337,wrong bitwise function,0.25
+23781,several changes,0.25
+46351,several changes,0.75
+15068,extra term,0.5
+52063,missing term,0.75
+15958,wrong coefficient,0.75
+29283,wrong coefficient,0.25
+18657,wrong coefficient,0.25
+49061,wrong coefficient,0.25
+49973,wrong bitwise function,0.5
+49314,wrong coefficient,0.25
+26417,wrong bitwise function,0.875
+35907,missing term,0.25
+45014,several changes,0.5
+41864,wrong bitwise function,0.25
+44169,wrong bitwise function,0.25
+8199,wrong bitwise function,0.25
+41563,extra term,0.5
+35305,wrong bitwise function,0.25
+19798,wrong bitwise function,0.25
+19803,missing term,0.75
+34190,off by a constant,1.0
+13965,several changes,0.25
+5205,wrong coefficient,0.25
+27569,wrong coefficient,0.25
+13967,swapped variables,0.5
+50133,wrong bitwise function,0.25
+43236,wrong bitwise function,0.25
+3198,extra term,0.75
+32880,wrong bitwise function,0.375
+52872,extra term,0.75
+53696,several changes,0.5
+51207,wrong coefficient,0.5
+23984,wrong bitwise function,0.25
+48273,wrong coefficient,0.25
+45378,wrong coefficient,0.25
+19204,wrong coefficient,0.75
+30028,off by a constant,1.0
+41064,wrong coefficient,0.25
+45172,wrong coefficient,0.25
+20090,missing term,0.75
+40194,wrong bitwise function,0.25
+31590,wrong coefficient,0.25
+15031,wrong coefficient,0.25
+8492,several changes,0.375
+38826,wrong coefficient,0.5
+48237,wrong coefficient,1.0
+33082,wrong bitwise function,0.25
+32319,wrong bitwise function,0.25
+25145,several changes,0.75
+38463,wrong coefficient,0.5
+48857,wrong coefficient,0.5
+23959,swapped variables,0.5
+9079,several changes,0.75
+33367,several changes,0.875
+712,wrong coefficient,0.5
+5803,wrong coefficient,0.5
+52232,several changes,1.0
+42786,swapped variables,0.5
+15036,several changes,0.75
+49253,wrong coefficient,0.5
+32077,several changes,0.25
+1295,wrong coefficient,0.25
+31883,missing term,0.5
+1048,missing term,0.5
+1919,swapped variables,0.5
+44579,wrong coefficient,0.25
+24013,wrong bitwise function,0.5
+44115,wrong bitwise function,0.25
+14525,wrong coefficient,0.5
+30223,wrong coefficient,0.75
+51632,wrong bitwise function,0.25
+19402,off by a constant,1.0
+9659,wrong coefficient,0.5
+16123,wrong bitwise function,0.25
+46051,wrong coefficient,0.25
+52554,wrong coefficient,0.5
+12686,several changes,0.75
+43675,extra term,0.5
+8255,wrong coefficient,0.75
+22315,wrong coefficient,0.25
+120,several changes,0.5
+3281,wrong coefficient,0.25
+33813,wrong coefficient,0.75
+33043,wrong coefficient,0.25
+33139,wrong bitwise function,0.25
+28861,wrong coefficient,0.25
+39717,swapped variables,0.5
+10725,missing term,0.25
+31315,swapped variables,0.5
+11795,wrong bitwise function,0.25
+10868,sign flip,0.25
+11783,off by a constant,1.0
+48874,wrong coefficient,0.25
+46966,missing term,0.25
+13407,wrong coefficient,0.5
+28464,wrong coefficient,0.5
+9950,wrong coefficient,0.5
+32683,off by a constant,1.0
+29446,wrong coefficient,0.5
+36920,several changes,0.375
+15714,several changes,0.375
+28736,missing term,0.25
+26865,wrong bitwise function,0.25
+20058,wrong coefficient,0.25
+29489,several changes,0.25
+39517,wrong coefficient,0.25
+5153,wrong coefficient,0.25
+26803,wrong coefficient,0.25
+23995,sign flip,0.5
+51021,off by a constant,1.0
+20116,missing term,0.5
+36374,wrong bitwise function,0.25
+37676,swapped variables,0.5
+29098,swapped variables,0.5
+23186,swapped variables,0.5
+14454,missing term,0.5
+26804,extra term,0.5
+36035,swapped variables,0.5
+43044,off by a constant,1.0
+53669,wrong coefficient,0.75
+3973,wrong bitwise function,0.25
+16678,missing term,0.25
+49054,missing term,0.25
+21930,missing term,0.25
+28118,wrong coefficient,0.5
+14876,missing term,0.25
+11870,missing term,0.25
+48183,wrong coefficient,0.5
+47008,wrong bitwise function,0.25
+3323,wrong bitwise function,0.5
+20049,wrong bitwise function,0.25
+35270,wrong coefficient,0.75
+44514,wrong coefficient,0.5
+39598,swapped variables,0.5
+42735,extra term,1.0
+36003,wrong bitwise function,0.25
+16101,extra term,0.5
+28601,wrong coefficient,0.25
+45473,swapped variables,0.5
+14011,wrong coefficient,0.5
+39508,extra term,0.5
+31741,wrong bitwise function,0.25
+12610,wrong bitwise function,0.25
+40160,wrong bitwise function,0.25
+34723,missing term,0.5
+27207,wrong coefficient,0.25
+38907,wrong coefficient,0.25
+13930,wrong bitwise function,0.5
+19996,missing term,0.5
+16555,wrong coefficient,0.75
+38331,missing term,0.75
+50080,wrong bitwise function,0.25
+31232,off by a constant,1.0
+19173,wrong coefficient,0.25
+12392,wrong coefficient,0.5
+17460,wrong coefficient,0.25
+2404,several changes,0.375
+14567,wrong coefficient,0.25
+3529,wrong bitwise function,0.25
+9327,wrong coefficient,0.25
+4006,several changes,0.25
+5526,wrong bitwise function,0.25
+21586,wrong coefficient,0.5
+52728,several changes,0.625
+22566,wrong coefficient,0.25
+5706,wrong coefficient,0.75
+3969,several changes,0.5
+40763,wrong bitwise function,0.25
+27646,wrong coefficient,0.25
+33626,extra term,0.25
+41937,wrong bitwise function,0.25
+3571,wrong coefficient,0.5
+34223,wrong coefficient,0.25
+24714,wrong coefficient,0.5
+23739,wrong bitwise function,0.25
+9264,several changes,0.75
+42503,wrong bitwise function,0.25
+4673,wrong bitwise function,0.25
+1071,wrong coefficient,0.75
+41067,missing term,0.5
+17189,several changes,0.5
+52702,swapped variables,0.5
+23211,wrong coefficient,0.5
+25289,wrong bitwise function,0.25
+16771,wrong bitwise function,0.25
+13695,swapped variables,0.5
+51250,several changes,0.5
+33385,wrong bitwise function,0.25
+14187,wrong coefficient,0.5
+24622,wrong bitwise function,1.0
+22327,wrong coefficient,0.5
+51624,wrong coefficient,0.25
+2983,wrong coefficient,0.5
+39849,wrong bitwise function,0.25
+31360,wrong coefficient,0.5
+12505,sign flip,0.25
+43115,wrong coefficient,0.5
+42200,wrong bitwise function,0.25
+20263,wrong coefficient,0.25
+40553,wrong coefficient,0.5
+40998,off by a constant,1.0
+7577,several changes,0.5
+20788,missing term,0.5
+345,wrong coefficient,0.5
+33374,missing term,0.25
+4726,several changes,1.0
+8458,wrong coefficient,0.25
+13887,missing term,0.5
+44302,swapped variables,0.5
+14152,wrong coefficient,0.25
+38751,wrong coefficient,0.25
+47242,extra term,0.5
+34151,wrong coefficient,0.25
+32708,wrong bitwise function,0.25
+44310,extra term,0.25
+37772,wrong coefficient,0.5
+31122,wrong coefficient,0.25
+13761,wrong coefficient,0.25
+1942,wrong coefficient,0.25
+13059,off by a constant,1.0
+140,missing term,0.25
+32938,wrong coefficient,0.25
+49999,several changes,0.5
+20203,off by a constant,1.0
+4641,wrong bitwise function,0.5
+40056,wrong bitwise function,0.5
+6074,wrong coefficient,0.25
+44621,wrong coefficient,0.5
+19161,wrong coefficient,0.5
+25214,missing term,0.25
+42987,off by a constant,1.0
+25744,extra term,0.5
+22777,wrong bitwise function,0.25
+7853,several changes,0.25
+39993,several changes,0.5
+6022,wrong coefficient,0.75
+19386,extra term,0.5
+35742,wrong coefficient,0.5
+17098,off by a constant,1.0
+27454,wrong coefficient,0.5
+46588,wrong bitwise function,0.25
+9652,wrong bitwise function,0.25
+3854,wrong coefficient,0.5
+30337,wrong bitwise function,0.5
+52093,wrong bitwise function,0.5
+50611,missing term,0.25
+28219,wrong coefficient,0.25
+43073,wrong coefficient,0.5
+44630,wrong bitwise function,0.25
+41491,wrong coefficient,0.5
+38407,wrong bitwise function,0.25
+36568,off by a constant,1.0
+16905,wrong bitwise function,0.25
+26084,wrong bitwise function,0.75
+25602,several changes,1.0
+3132,wrong coefficient,0.5
+21896,wrong bitwise function,0.25
+29871,several changes,0.75
+12460,wrong coefficient,0.25
+23818,wrong bitwise function,0.25
+50365,extra term,0.5
+41115,extra term,0.25
+51092,extra term,0.25
+34031,wrong bitwise function,0.25
+183,several changes,0.5
+46561,swapped variables,0.5
+33160,several changes,0.5
+51129,wrong coefficient,0.25
+53316,off by a constant,1.0
+16689,several changes,0.5
+28938,wrong bitwise function,0.25
+47990,wrong coefficient,0.5
+42054,missing term,1.0
+23913,wrong coefficient,0.75
+8550,wrong bitwise function,0.625
+18698,wrong bitwise function,0.75
+22604,wrong coefficient,0.25
+51619,missing term,0.25
+5119,wrong coefficient,0.25
+10655,wrong coefficient,0.75
+48129,swapped variables,0.5
+19666,wrong coefficient,0.5
+32082,wrong coefficient,0.25
+27317,several changes,0.75
+52190,several changes,1.0
+22171,wrong bitwise function,0.25
+49789,several changes,0.625
+49092,wrong bitwise function,0.5
+51268,wrong coefficient,0.5
+46013,wrong bitwise function,0.25
+36478,swapped variables,0.5
+6062,wrong coefficient,0.25
+46903,missing term,0.75
+46852,wrong bitwise function,0.25
+33435,wrong bitwise function,0.25
+51169,swapped variables,0.5
+33093,wrong coefficient,0.5
+5073,wrong bitwise function,0.5
+6303,missing term,0.5
+23968,sign flip,0.25
+8865,swapped variables,0.5
+41833,wrong coefficient,0.5
+23266,extra term,0.25
+43394,several changes,0.5
+22652,wrong bitwise function,0.25
+11288,wrong coefficient,0.25
+53896,missing term,0.5
+1772,swapped variables,0.5
+29827,wrong bitwise function,0.25
+7318,swapped variables,0.5
+8797,wrong coefficient,0.25
+41868,swapped variables,0.5
+7370,wrong coefficient,0.25
+27125,wrong coefficient,0.5
+19326,wrong coefficient,0.25
+26498,wrong bitwise function,0.25
+40588,wrong bitwise function,0.25
+917,wrong bitwise function,0.25
+9547,wrong coefficient,0.25
+34914,missing term,0.75
+47853,wrong bitwise function,0.25
+48231,wrong coefficient,0.5
+31327,missing term,0.5
+44614,several changes,0.5
+27083,wrong coefficient,0.25
+2114,swapped variables,0.5
+35795,missing term,0.75
+32882,wrong coefficient,0.25
+33370,extra term,0.25
+25711,wrong bitwise function,0.25
+53424,several changes,0.5
+3461,wrong bitwise function,0.25
+35144,wrong bitwise function,0.25
+274,several changes,0.75
+27150,wrong coefficient,0.75
+51987,extra term,0.25
+6033,wrong coefficient,0.5
+9470,several changes,0.5
+870,wrong coefficient,0.5
+33218,wrong coefficient,0.25
+30674,sign flip,0.25
+15835,wrong bitwise function,0.25
+35909,wrong bitwise function,0.25
+37738,wrong bitwise function,0.25
+47965,several changes,0.5
+655,wrong coefficient,0.5
+19323,wrong coefficient,0.5
+32917,wrong bitwise function,0.25
+50756,wrong coefficient,0.25
+26476,several changes,0.5
+485,several changes,0.75
+31918,several changes,0.75
+46230,wrong coefficient,0.25
+179,wrong coefficient,0.25
+35559,wrong coefficient,0.25
+19727,wrong bitwise function,0.25
+43605,wrong coefficient,0.25
+51713,several changes,0.5
+43751,wrong coefficient,0.5
+49482,wrong bitwise function,0.5
+40487,wrong coefficient,0.25
+5339,extra term,0.5
+8198,wrong bitwise function,0.25
+14804,wrong bitwise function,0.25
+25571,several changes,0.25
+36601,wrong coefficient,0.25
+17533,off by a constant,1.0
+51849,wrong bitwise function,0.25
+19707,wrong coefficient,0.25
+26849,wrong coefficient,1.0
+3409,missing term,0.25
+11469,wrong bitwise function,0.5
+5019,wrong bitwise function,0.25
+54292,off by a constant,1.0
+23991,several changes,0.75
+4261,missing term,0.25
+50444,wrong bitwise function,0.25
+24768,extra term,0.25
+45160,swapped variables,0.5
+26586,several changes,0.5
+20561,several changes,0.75
+22958,wrong bitwise function,0.25
+5394,several changes,0.25
+45644,wrong bitwise function,0.25
+33683,wrong bitwise function,0.25
+7688,wrong coefficient,0.25
+38029,off by a constant,1.0
+30499,wrong bitwise function,0.25
+46284,wrong coefficient,0.75
+11129,wrong bitwise function,0.25
+9933,missing term,0.25
+12623,wrong bitwise function,0.25
+11307,several changes,0.25
+33496,wrong coefficient,0.25
+44707,several changes,0.5
+36574,wrong bitwise function,0.25
+6194,extra term,0.25
+14627,wrong coefficient,0.5
+43571,wrong coefficient,0.75
+39724,wrong bitwise function,0.25
+32096,missing term,0.5
+15976,wrong coefficient,0.25
+43452,wrong bitwise function,0.5
+33543,wrong bitwise function,0.25
+46234,wrong coefficient,0.25
+549,wrong coefficient,0.25
+20907,wrong bitwise function,0.75
+40947,wrong bitwise function,0.25
+14442,wrong coefficient,0.75
+31870,swapped variables,0.5
+25967,missing term,0.5
+40446,wrong bitwise function,0.25
+29732,wrong bitwise function,0.25
+52609,missing term,0.25
+11853,wrong coefficient,0.25
+2919,several changes,0.5
+46123,wrong coefficient,0.5
+51273,wrong bitwise function,0.25
+22446,several changes,1.0
+2405,extra term,0.5
+14563,wrong coefficient,0.25
+16371,extra term,0.75
+47979,missing term,0.5
+7472,wrong bitwise function,0.25
+29525,wrong coefficient,0.25
+9528,several changes,1.0
+7606,wrong coefficient,0.5
+27400,wrong coefficient,0.5
+13094,wrong coefficient,0.5
+39627,wrong coefficient,0.5
+7167,wrong coefficient,0.5
+470,wrong bitwise function,0.5
+45863,wrong coefficient,0.75
+14620,wrong coefficient,0.25
+41696,wrong coefficient,0.25
+54374,missing term,0.25
+40792,off by a constant,1.0
+34114,wrong coefficient,0.5
+14417,wrong coefficient,0.5
+23380,wrong coefficient,0.5
+32182,wrong bitwise function,0.5
+35892,wrong bitwise function,0.25
+46029,missing term,0.25
+15043,wrong bitwise function,0.25
+31923,wrong bitwise function,0.25
+39211,wrong bitwise function,0.25
+2425,wrong coefficient,0.25
+10102,wrong coefficient,0.5
+15457,several changes,0.25
+6034,missing term,0.75
+21517,wrong bitwise function,0.5
+52075,swapped variables,0.5
+53613,wrong bitwise function,0.75
+30712,wrong bitwise function,0.25
+51803,missing term,0.5
+48320,wrong bitwise function,0.5
+44522,wrong coefficient,0.75
+22042,wrong coefficient,0.25
+4157,wrong coefficient,0.5
+30121,extra term,0.25
+52323,missing term,0.25
+31945,wrong coefficient,0.25
+52245,wrong bitwise function,0.25
+35166,missing term,1.0
+43825,off by a constant,1.0
+52956,extra term,0.5
+380,off by a constant,1.0
+29715,several changes,0.5
+44468,wrong bitwise function,0.5
+6966,wrong coefficient,0.25
+50295,wrong bitwise function,0.5
+6310,wrong bitwise function,0.25
+21172,wrong bitwise function,0.25
+44077,wrong bitwise function,0.25
+33303,wrong bitwise function,0.25
+45712,wrong coefficient,0.25
+31125,wrong coefficient,0.5
+26840,several changes,0.375
+27033,sign flip,0.75
+11939,wrong bitwise function,0.25
+35959,swapped variables,0.5
+44213,several changes,0.5
+23603,wrong bitwise function,0.25
+38523,wrong coefficient,0.25
+40517,missing term,0.5
+23530,missing term,0.25
+8447,wrong coefficient,0.5
+50259,several changes,0.5
+20166,wrong bitwise function,0.25
+25344,wrong coefficient,0.5
+2728,wrong coefficient,0.25
+36299,wrong bitwise function,0.25
+44452,wrong bitwise function,0.25
+36767,several changes,0.5
+21846,off by a constant,1.0
+27143,wrong coefficient,0.5
+15628,off by a constant,1.0
+1500,wrong coefficient,0.75
+9446,wrong coefficient,0.5
+6612,wrong coefficient,0.25
+10756,wrong bitwise function,0.25
+33069,sign flip,0.25
+38856,missing term,0.75
+48082,wrong coefficient,0.25
+29701,wrong coefficient,0.25
+12347,wrong coefficient,0.5
+27151,wrong coefficient,0.25
+29028,swapped variables,0.5
+21183,several changes,0.625
+44666,extra term,0.5
+17622,missing term,0.75
+35657,wrong coefficient,0.25
+14817,wrong coefficient,0.5
+32270,wrong coefficient,0.5
+37881,wrong bitwise function,0.5
+33724,missing term,0.5
+29303,wrong coefficient,0.5
+34209,wrong bitwise function,0.25
+6,swapped variables,0.5
+49492,wrong coefficient,0.5
+3096,wrong coefficient,0.25
+41235,missing term,0.5
+40345,wrong coefficient,0.25
+19422,several changes,0.5
+30990,wrong bitwise function,0.25
+44678,swapped variables,0.5
+21030,swapped variables,0.5
+23889,wrong bitwise function,0.25
+32154,wrong coefficient,0.5
+34878,wrong coefficient,0.5
+8472,missing term,0.75
+33396,wrong bitwise function,0.25
+17085,extra term,0.25
+6152,wrong bitwise function,1.0
+9612,wrong bitwise function,0.5
+29091,wrong coefficient,0.5
+49567,wrong bitwise function,0.25
+32711,wrong coefficient,0.5
+45914,several changes,0.375
+17935,several changes,0.75
+15832,wrong coefficient,0.25
+24594,extra term,0.5
+51638,off by a constant,1.0
+235,wrong bitwise function,0.5
+48644,wrong coefficient,0.5
+22329,missing term,0.5
+27472,off by a constant,1.0
+52455,wrong bitwise function,0.25
+30344,several changes,1.0
+10420,wrong coefficient,0.75
+35978,wrong bitwise function,0.25
+24156,several changes,0.375
+11337,wrong coefficient,0.25
+53286,missing term,0.5
+35288,swapped variables,0.5
+26809,wrong bitwise function,0.25
+51343,wrong bitwise function,0.5
+4598,several changes,0.5
+18114,extra term,0.5
+9775,wrong bitwise function,0.25
+42444,missing term,0.25
+45922,wrong coefficient,0.5
+46649,swapped variables,0.5
+16431,missing term,0.5
+46434,swapped variables,0.5
+2918,wrong bitwise function,0.25
+14232,wrong bitwise function,0.25
+26585,off by a constant,1.0
+42948,non-linear output,0.25
+2240,wrong bitwise function,0.25
+34193,wrong coefficient,0.5
+37295,wrong coefficient,0.25
+17513,wrong coefficient,0.25
+13584,several changes,0.75
+19301,wrong coefficient,0.25
+22686,wrong bitwise function,0.25
+20495,extra term,0.25
+19568,missing term,0.5
+51468,off by a constant,1.0
+20139,wrong coefficient,0.5
+8322,swapped variables,0.5
+54138,missing term,0.5
+8356,several changes,0.5
+48541,wrong bitwise function,0.25
+31205,wrong bitwise function,0.25
+219,wrong coefficient,0.25
+15318,wrong coefficient,0.25
+32911,wrong bitwise function,0.25
+26442,wrong bitwise function,0.25
+12118,wrong bitwise function,0.25
+18547,extra term,0.75
+25974,extra term,0.25
+28319,wrong coefficient,0.25
+48633,wrong coefficient,0.25
+20841,wrong coefficient,0.75
+36684,several changes,0.75
+39109,wrong coefficient,0.5
+15930,wrong coefficient,0.5
+17266,several changes,0.5
+42586,wrong coefficient,0.5
+48166,extra term,0.5
+17647,wrong bitwise function,0.25
+14659,wrong bitwise function,0.25
+9462,wrong bitwise function,0.25
+24556,off by a constant,1.0
+33860,wrong coefficient,0.5
+14943,wrong bitwise function,0.25
+4402,wrong coefficient,0.5
+10888,several changes,0.5
+30654,wrong bitwise function,0.25
+41333,missing term,0.5
+35670,missing term,0.5
+24375,wrong bitwise function,0.25
+3066,wrong coefficient,0.5
+13253,wrong bitwise function,0.25
+42844,several changes,0.75
+50240,wrong coefficient,0.5
+24065,off by a constant,1.0
+20216,wrong bitwise function,0.25
+5308,wrong coefficient,0.25
+1104,several changes,0.5
+41272,wrong coefficient,0.25
+1587,wrong coefficient,0.25
+34052,wrong bitwise function,0.25
+3656,off by a constant,1.0
+10680,swapped variables,0.5
+11259,extra term,0.25
+480,extra term,0.5
+32530,wrong bitwise function,0.25
+18490,wrong coefficient,0.25
+5415,extra term,0.5
+35357,wrong bitwise function,0.5
+46735,extra term,0.75
+42012,wrong bitwise function,0.25
+19541,sign flip,0.25
+29276,wrong bitwise function,0.5
+10458,extra term,0.5
+28701,wrong bitwise function,0.25
+26285,off by a constant,1.0
+39884,wrong bitwise function,0.25
+47684,missing term,0.75
+1108,wrong coefficient,0.75
+46004,wrong coefficient,0.75
+4648,swapped variables,0.5
+11003,wrong bitwise function,0.25
+13702,wrong bitwise function,0.75
+48033,off by a constant,1.0
+32948,wrong bitwise function,0.5
+52522,wrong bitwise function,0.5
+9331,extra term,0.25
+49131,wrong bitwise function,0.75
+4029,extra term,0.5
+12756,wrong coefficient,0.75
+25842,wrong coefficient,0.75
+43175,off by a constant,1.0
+27500,wrong bitwise function,0.5
+12669,extra term,0.5
+39202,wrong bitwise function,0.25
+49075,wrong coefficient,0.25
+29067,wrong coefficient,0.25
+28363,swapped variables,0.5
+3261,wrong bitwise function,0.5
+47711,extra term,0.75
+9165,wrong coefficient,0.25
+45132,swapped variables,0.5
+800,wrong coefficient,0.25
+4766,wrong coefficient,0.5
+45352,wrong coefficient,0.5
+44344,wrong coefficient,0.25
+41506,wrong coefficient,0.25
+25024,wrong coefficient,0.75
+9452,wrong bitwise function,0.5
+40764,wrong coefficient,0.75
+43947,wrong coefficient,0.25
+34983,several changes,0.5
+14382,wrong coefficient,0.5
+42693,wrong bitwise function,0.25
+53636,missing term,0.5
+38047,wrong coefficient,0.5
+35013,wrong bitwise function,0.25
+43155,wrong coefficient,1.0
+34313,extra term,0.5
+47448,wrong coefficient,0.5
+22853,wrong bitwise function,0.25
+27983,wrong coefficient,0.25
+12852,several changes,0.625
+23532,wrong coefficient,0.25
+47985,extra term,0.5
+2500,wrong coefficient,0.25
+53186,wrong coefficient,0.75
+13076,wrong coefficient,0.5
