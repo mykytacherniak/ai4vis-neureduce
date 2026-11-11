@@ -1,11 +1,25 @@
 {
-    "team_name": "Team Name",
+    "team_name": "WACUWAN",
     "students": [
         {
-            "first_name": "First",
-            "last_name": "Last",
+            "first_name": "Caroline",
+            "last_name": "König",
             "workload": 0.25
         },
-        // ...add a record for each student
+        {
+            "first_name": "Mykyta",
+            "last_name": "Cherniak",
+            "workload": 0.25
+        },
+        {
+            "first_name": "Eugenio",
+            "last_name": "Maggiolini",
+            "workload": 0.25
+        },
+        {
+            "first_name": "Zsolt",
+            "last_name": "Szabolcsi",
+            "workload": 0.25
+        },
     ]
-} 
+}
