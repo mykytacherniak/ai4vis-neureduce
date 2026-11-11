@@ -1,33 +1,33 @@
 {
-    "team_name": "WACUWAN",
+    "team_name": "WACUWAN!",
     "students": [
         {
             "student_id": "k12550757",
             "first_name": "Zsolt",
             "last_name": "Szabolcsi",
-            "email": "first.last@mail.com",
+            "email": "k12550757@students.jku.at",
             "github_user": "zsoltio"
         },
         {
-            "student_id": "k12445546",
+            "student_id": "k12235884",
             "first_name": "Mykyta",
             "last_name": "Cherniak",
-            "email": "first.last@mail.com",
+            "email": "k12235884@students.jku.at",
             "github_user": "mykytacherniak"
         },
         {
             "student_id": "k01606380",
             "first_name": "Caroline",
             "last_name": "König",
-            "email": "first.last@mail.com",
+            "email": "k01606380@students.jku.at",
             "github_user": "charaline"
         },
         {
-            "student_id": "k12235884",
+            "student_id": "k12445546",
             "first_name": "Eugenio",
             "last_name": "Maggiolini",
-            "email": "first.last@mail.com",
-            "github_user": "fvrmatteo"
+            "email": "k12445546@students.jku.at",
+            "github_user": "yugeniom"
         }
     ]
 }

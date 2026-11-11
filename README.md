@@ -20,11 +20,15 @@ We will explore the model through the analysis of its inputs and outputs to iden
 
 Based on this, we will investigate what the model has learned and how this relates to the final output of its deobfuscation attempts.
 
-**Paper:**  
+**Paper:**
 https://aclanthology.org/2020.findings-emnlp.56.pdf
 
-**Dataset:**  
+**Dataset:**
 Included in the NeuReduce repository.
+
+```text
+PyTorch/dataset.csv
+```
 
 ## Model
 
@@ -32,7 +36,7 @@ We will use the **Transformer variant of NeuReduce**, a sequence-to-sequence mod
 
 Depending on our findings, we may also compare it with other model architectures evaluated in the NeuReduce paper to investigate differences in their behavior and learned representations.
 
-**NeuReduce repository:**  
+**NeuReduce repository:**
 https://github.com/fvrmatteo/NeuReduce  
 (fork of `nhpcc502/NeuReduce`)
 

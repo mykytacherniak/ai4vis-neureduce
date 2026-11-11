@@ -1,5 +1,5 @@
 {
-    "team_name": "WACUWAN",
+    "team_name": "WACUWAN!",
     "students": [
         {
             "first_name": "Caroline",
@@ -20,6 +20,6 @@
             "first_name": "Zsolt",
             "last_name": "Szabolcsi",
             "workload": 0.25
-        },
+        }
     ]
 }
